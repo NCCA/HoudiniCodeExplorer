@@ -46,3 +46,14 @@ This should report output similar to the following:
 ## Houdini Shelf
 
 You can now find the shelf by clicking on the shelf + icon in the toolbar and selecting "Code Explorer"
+
+
+## History 
+
+This started as a simple [blog post](https://jonmacey.blogspot.com/2011/01/houdini-python-ascode.html) and tool a long time ago. I have basically been using this for ages dumping data to a file and using snippets to build up my Houdini scripts.
+
+I got a bit frustrated with this recently and decided to update it to have the code directly in houdini and give me the ability to show just what I needed. 
+
+Still very much a work in progress but hopefully it will be useful, I also use this in my teaching to demonstrate how to write deploy tools to houdini so this a useful example of this. 
+
+The basics started as a quick sketch of code which I then vibe coded with opencode, then re-factored into a more structured package and added more features.

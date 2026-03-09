@@ -227,10 +227,6 @@ class CodeExplorerDialog(QtWidgets.QDialog):
 
     def _reload_tree(self) -> None:
         """Reload the node tree model based on the root path input."""
-        if not hou:
-            self._status_label.setText("Houdini module not found.")
-            return
-
         root_path = self._root_edit.text().strip() or "/"
         node = hou.node(root_path)
         if node is None:

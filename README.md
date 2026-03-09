@@ -43,7 +43,7 @@ This should report output similar to the following:
     - Code Explorer
 ```
 
-Note : that I don't have access to windows machines to test, but if anyone wants to send a PR with Windows support, I'd be happy to review it and merge (it should be straightforward to add support by getting the correct paths line 18 (installHouPackage.py)[installHouPackage.py]
+Note : that I don't have access to windows machines to test, but if anyone wants to send a PR with Windows support, I'd be happy to review it and merge (it should be straightforward to add support by getting the correct paths line 18 [installHouPackage.py](installHouPackage.py)
 
 ## Houdini Shelf
 

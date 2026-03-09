@@ -100,7 +100,7 @@ def install_shelf(houdini_location, current_dir):
     with open(shelf_file, "w") as file:
         file.write(shelf_xml)
 
-    print(f"\n✓ Shelf file created at: {shelf_file}")
+    print(f"\n Shelf file created at: {shelf_file}")
     print(f"  Contains {len(TOOLS)} tools:")
     for tool in TOOLS:
         print(f"    - {tool['label']}")

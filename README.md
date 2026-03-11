@@ -4,6 +4,8 @@ This is a houdini shelf tool to view the python code used to create houdini node
 
 ![](images/Explorer.png)
 
+[![Watch the video](https://img.youtube.com/vi/NhDiKAPl3p8/0.jpg)](https://www.youtube.com/watch?v=NhDiKAPl3p8)
+
 ## Installation
 
 To install this tool first clone this repository into a folder of you choice. This will be the installation location for the tool and must not be deleted.
